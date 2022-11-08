@@ -2,10 +2,11 @@
   <img src="./img/bandeau-home.jpg" alt="Hi, I'm Thomas! 👋 I'm a French web developper with creative skills">
 </p>
 
-<h1 align="center"> 👋 Bonjour, I'm Thomas! I'm a French web developper with creative skills 👋 </h1>
+<h1 align="center"> 👋 Bonjour, I'm Thomas! I'm a French web developer with creative skills 👋 </h1>
 <h3 align="center"> Web Developper | Directeur artistique | web-designer</h3>
 
-<p align="center"> After 17 years being a creative director in agency, here i come in my new life as a web developper!</p>
+<p align="center"> After 17 years being a creative director in agency, here i come in my new life as a web developer! <br>
+Can't wait to mix all these skills together. Do not hesitate to say hi !</p>
 
 ## :link: Links
 
