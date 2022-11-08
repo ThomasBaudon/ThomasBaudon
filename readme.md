@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 Bonjour, I'm Thomas! 👋<br> I'm a French web developer with creative skills </h1>
 <h3 align="center"> Web Developper | Creative designer | web designer</h3>
 
-<p align="center"> After 17 years being a creative director in agency, here i come in my new life as a web developer! <br>
+<p align="center"> After 17 years being a creative director in agency, i decided to meet thedarkside... Here i come in my new life as a web developer! <br>
 Can't wait to mix all these skills together. Do not hesitate to say hi !</p>
 
 ## :link: Links
