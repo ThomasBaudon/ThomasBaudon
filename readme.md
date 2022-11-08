@@ -2,4 +2,8 @@
   <img src="./img/bandeau-home.jpg" alt="Hi, I'm Thomas! 👋 I'm a French web developper with creative skills">
 </p>
 
-<h2 style="text-align:center;"> Hi, I'm Thomas! 👋 I'm a French web developper with creative skills </h2>
+# 👋 Hi, I'm Thomas! I'm a French web developper with creative skills 👋
+## Web Developper | Directeur artistique | web-designer
+
+## :link: Links
+
