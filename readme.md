@@ -10,6 +10,7 @@ Can't wait to mix all these skills together. Do not hesitate to say hi !</p>
 
 ## :link: Links
 
+- [mail me](mailto:thomas@thomasbaudon.fr)
 - [thomasbaudon.fr](https://www.thomasbaudon.fr/)
 - [Linkedin](https://www.linkedin.com/in/thomas-baudon-985323a6/)
 - [Instagram](https://www.instagram.com/__toma_b/?hl=fr)
